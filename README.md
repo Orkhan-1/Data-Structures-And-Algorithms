@@ -1,5 +1,7 @@
 # Data Structures And Algorithms
 
+Implementation of Data Structures And Algorithms
+
 ## Supported Languages
 
 Default language for all solutions is Java. I'm adding more language support. Currently, I extended it to followings:
