@@ -1,8 +1,10 @@
 import time
 import matplotlib.pyplot as plt
 
+
 def access_element(arr, index):
     return arr[index]
+
 
 input_sizes = [10, 100, 1000, 10000]
 times = []
