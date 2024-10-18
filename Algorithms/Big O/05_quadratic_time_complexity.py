@@ -25,7 +25,6 @@ for size in input_sizes:
     elapsed_time_ms = (total_time / 10) * 1000
     times.append(elapsed_time_ms)
 
-# Plot the graph
 plt.plot(input_sizes, times, marker='o')
 plt.title("O(n²) Time Complexity - Bubble Sort")
 plt.xlabel("Input Size")

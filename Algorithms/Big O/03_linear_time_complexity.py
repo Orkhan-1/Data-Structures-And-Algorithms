@@ -10,7 +10,6 @@ def linear_search(arr, target):
     return False
 
 
-# Measure time
 input_sizes = [10, 100, 1000, 10000, 100000]
 times = []
 
